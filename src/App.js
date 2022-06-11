@@ -1,23 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Herosection from "./components/Herosection";
+import CompaniesLogos from "./components/CompaniesLogos";
+import PlatformSection from "./components/PlatformSection";
+import UnlockEquitySection from "./components/UnlockEquitySection";
+import ComingSoonSection from "./components/ComingSoonSection";
+import InvestingSection from "./components/InvestingSection";
+import Testimonials from "./components/Testimonials";
+import Ratings from "./components/Ratings";
+import VideoTestimonial from "./components/VideoTestimonial";
+import Footer from "./components/Footer";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Navbar />
       </header>
+      <main className="main">
+        <Herosection />
+        <CompaniesLogos />
+        <PlatformSection />
+        <UnlockEquitySection />
+        <InvestingSection />
+        <ComingSoonSection />
+        <Testimonials />
+        <Ratings />
+        <VideoTestimonial />
+      </main>
+      <Footer />
     </div>
   );
 }
