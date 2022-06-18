@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Nada/static/css/main.9b3d400c.css",
+    "main.js": "/Nada/static/js/main.439af597.js",
+    "static/media/Nada-HeroPic.svg": "/Nada/static/media/Nada-HeroPic.37772ffb33178fae00f3387d8d5c1023.svg",
+    "static/media/Mid2SectionImg.png": "/Nada/static/media/Mid2SectionImg.b47086c05281c5946cff.png",
+    "static/media/Mid1SectionImg.png": "/Nada/static/media/Mid1SectionImg.e153f1adc1ca91d85bfd.png",
+    "static/media/ratings.png": "/Nada/static/media/ratings.55a3969a55dcffa237ef.png",
+    "static/media/Unlock.svg": "/Nada/static/media/Unlock.c9f5677c09c6c94db76f036f19deacaf.svg",
+    "static/media/Invest.svg": "/Nada/static/media/Invest.d6583cb042b68b601782c82ef19c3e50.svg",
+    "static/media/Earn.svg": "/Nada/static/media/Earn.f65b0f652a46fd460b035c2abca29c10.svg",
+    "static/media/Spend.svg": "/Nada/static/media/Spend.594ffa4d6271194295d1e26d209ab9c7.svg",
+    "static/media/istagram-white-icon.svg": "/Nada/static/media/istagram-white-icon.9167e3a5d43f831561bdb8c51e60133d.svg",
+    "static/media/twitter-black-icon.8ec61dd9 1.svg": "/Nada/static/media/twitter-black-icon.8ec61dd9 1.9c34018046e3ff4596796f8d48b5073b.svg",
+    "static/media/discord-icon.svg": "/Nada/static/media/discord-icon.974e6be929e0457392693b48c608ede3.svg",
+    "static/media/linkedin-white-icon.svg": "/Nada/static/media/linkedin-white-icon.a48dad44b9f7e9b9ca4dcc03cd1d5a5c.svg",
+    "static/media/facebook-white-icon.svg": "/Nada/static/media/facebook-white-icon.b482505f8f3f94ab6618a3256a605a87.svg",
+    "index.html": "/Nada/index.html",
+    "static/media/Vector-3.svg": "/Nada/static/media/Vector-3.bc9417908cac01db91353786f0b464e4.svg",
+    "static/media/Vector-1.svg": "/Nada/static/media/Vector-1.fbfcfcb1717ad94865b57f4dd4e3f7f8.svg",
+    "static/media/Vector-2.svg": "/Nada/static/media/Vector-2.ea8980a72698085a50478da4481a645b.svg",
+    "static/media/Vector.svg": "/Nada/static/media/Vector.5407765642c1cb0f2c677f9c2d48d21f.svg",
+    "static/media/Vector-4.svg": "/Nada/static/media/Vector-4.64030ae102ac36bef8e7ad8e4743ed4d.svg",
+    "main.9b3d400c.css.map": "/Nada/static/css/main.9b3d400c.css.map",
+    "main.439af597.js.map": "/Nada/static/js/main.439af597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3d400c.css",
+    "static/js/main.439af597.js"
+  ]
+}
